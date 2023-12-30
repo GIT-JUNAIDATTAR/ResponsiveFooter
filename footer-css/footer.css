@@ -8,7 +8,7 @@ body {
 }
 .upper{
     height: 500px;
-    background-image: url(/footer-source/background.jpg);
+    background-image: url(footer-source/background.jpg);
     background-repeat:no-repeat;
     background-size: cover;   
     background-position: center;             
